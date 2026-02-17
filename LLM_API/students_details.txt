@@ -1,0 +1,41 @@
+Name: Aisha Rahman
+University: Universiti Malaya
+Class: AI-2024
+Project: Smart Traffic Light Control using YOLOv8
+Description: Detects vehicle congestion and adapts signal timing dynamically using real-time video analysis.
+
+Name: Rahul Kumar
+University: UTM
+Class: AI-2024
+Project: Emotion Detection Chatbot
+Description: Identifies and responds to user emotions in chat using text embeddings and sentiment analysis.
+
+Name: Noor Fatima
+University: Universiti Teknologi Petronas
+Class: CS-2024
+Project: Automated Code Review Assistant using LLMs
+Description: Uses a large language model to review programming code, suggest improvements, and identify bugs.
+
+Name: Wei Jun
+University: Universiti Sains Malaysia
+Class: CS-2024
+Project: Student Attendance System using Facial Recognition
+Description: Implements an ML-based facial recognition system to automate student attendance tracking.
+
+Name: Samuel Tan
+University: Universiti Kebangsaan Malaysia
+Class: CS-2024
+Project: College Event Management Portal
+Description: A full-stack web application that helps students register, manage, and track campus events.
+
+Name: Nur Iman
+University: Universiti Putra Malaysia
+Class: BA-2024
+Project: Marketing Trend Analysis for Local SMEs
+Description: Analyzes customer purchase data to identify seasonal trends and improve business strategies.
+
+Name: Aravind Raj
+University: Universiti Teknologi MARA
+Class: EE-2024
+Project: Solar Power Monitoring System
+Description: Designs an IoT-based embedded system to track and optimize solar energy production.
