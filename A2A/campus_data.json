@@ -1,0 +1,29 @@
+{
+  "staff": [
+    {"name": "Dr Amina Rahman", "department": "Computer Science", "email": "amina.rahman@uni.example", "office": "CS-3.21"},
+    {"name": "Prof Lim Wei Jian", "department": "Information Systems", "email": "lim.weijian@uni.example", "office": "IS-2.14"},
+    {"name": "Dr Nur Syafiqah", "department": "Computer Science", "email": "nur.syafiqah@uni.example", "office": "CS-3.08"},
+    {"name": "Ms Tan Mei Ling", "department": "Academic Office", "email": "tan.meiling@uni.example", "office": "AO-1.03"}
+  ],
+  "office_hours": [
+    {"staff_name": "Dr Amina Rahman", "day": "Tue", "time": "14:00-16:00", "mode": "In-person", "location": "CS-3.21"},
+    {"staff_name": "Dr Amina Rahman", "day": "Thu", "time": "10:00-11:00", "mode": "Online", "location": "MS Teams"},
+    {"staff_name": "Prof Lim Wei Jian", "day": "Wed", "time": "09:00-11:00", "mode": "In-person", "location": "IS-2.14"}
+  ],
+  "timetable": [
+    {"course_code": "SENG3200", "week": 3, "day": "Mon", "time": "10:00-12:00", "venue": "LT-1"},
+    {"course_code": "SENG3200", "week": 3, "day": "Thu", "time": "14:00-16:00", "venue": "CS-Lab-2"},
+    {"course_code": "DSAI2101", "week": 3, "day": "Fri", "time": "09:00-11:00", "venue": "LT-2"}
+  ],
+  "rooms": [
+    {"building": "LT", "room": "LT-1", "capacity": 180, "facilities": ["Projector", "PA System"]},
+    {"building": "LT", "room": "LT-2", "capacity": 120, "facilities": ["Projector"]},
+    {"building": "CS", "room": "CS-Lab-2", "capacity": 35, "facilities": ["PCs", "Whiteboard", "HDMI"]},
+    {"building": "LIB", "room": "LIB-Meeting-1", "capacity": 12, "facilities": ["TV", "Whiteboard"]}
+  ],
+  "contacts": [
+    {"contact_type": "it_helpdesk", "name": "IT Helpdesk", "email": "helpdesk@uni.example", "phone": "+60-3-5555-1000"},
+    {"contact_type": "library", "name": "Library Counter", "email": "library@uni.example", "phone": "+60-3-5555-2000"},
+    {"contact_type": "academic_office", "name": "Academic Office", "email": "academics@uni.example", "phone": "+60-3-5555-3000"}
+  ]
+}
