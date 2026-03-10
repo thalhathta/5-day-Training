@@ -17,7 +17,7 @@ class CoursePolicyAgentExecutor(AgentExecutor):
     def __init__(self) -> None:
         self.agent = CoursePolicyAgent(
             pdf_path=os.environ.get(
-                "COURSE_POLICY_PDF", "A2A/SENG3200_Course_Policy_Handbook.pdf"
+                "COURSE_POLICY_PDF", "/home/robomy/Desktop/THALHATH/5-day-Training/A2A/SENG3200_Course_Policy_Handbook.pdf"
             )
         )
 
