@@ -2,3 +2,5 @@ uvicorn
 a2a
 a2a-sdk[http-server]
 python-dotenv
+openai
+pypdf
